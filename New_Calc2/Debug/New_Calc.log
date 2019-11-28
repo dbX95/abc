@@ -1,0 +1,9 @@
+﻿  Dongu.cpp
+  Islemler.cpp
+  New_Calc.cpp
+  bolum.cpp
+  fark.cpp
+  topla.cpp
+  Generating Code...
+C:\Users\user\Dogu\New_Calc\New_Calc\New_Calc.cpp(15,18): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  New_Calc.vcxproj -> C:\Users\user\Dogu\New_Calc\Debug\New_Calc.exe
